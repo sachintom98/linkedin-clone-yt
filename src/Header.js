@@ -15,6 +15,9 @@ function Header() {
           <input type="text" />
         </div>
       </div>
+      <div>
+        
+      </div>
 
       <div className="header__right">
 
